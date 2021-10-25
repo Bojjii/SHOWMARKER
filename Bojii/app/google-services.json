@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "300962930174",
+    "project_id": "bojii-e7a5e",
+    "storage_bucket": "bojii-e7a5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300962930174:android:95eed10e7d90f3b28674af",
+        "android_client_info": {
+          "package_name": "com.example.bojii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300962930174-i7956ojivjoff51up7mvucqpbhrdvua7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ_YW2RdCQcyDJhbPC-BHbdEmh7_cIU_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300962930174-i7956ojivjoff51up7mvucqpbhrdvua7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
