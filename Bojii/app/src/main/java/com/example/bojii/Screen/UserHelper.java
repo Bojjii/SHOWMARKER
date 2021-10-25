@@ -1,4 +1,4 @@
-package com.example.bojii;
+package com.example.bojii.Screen;
 
 public class UserHelper {
     String email, name, password, phoneNo, username;
